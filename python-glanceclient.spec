@@ -8,7 +8,7 @@
 Summary:	OpenStack Image API Client Library
 Name:		python-glanceclient
 Version:	2.8.0
-Release:	3
+Release:	4
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/python-glanceclient/%{name}-%{version}.tar.gz
